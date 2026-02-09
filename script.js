@@ -91,7 +91,7 @@ yesBtn.addEventListener("click", () => {
       <strong>Valentine Plan:</strong><br>
       Simple plan... better with you ❤️
     `;
-    catImg.src = "cat_dance.gif";
+    catImg.src = "cat_kiss.gif";
   } else {
     title.textContent = "See? I knew you’d say yes 😼";
     finalText.innerHTML = `
